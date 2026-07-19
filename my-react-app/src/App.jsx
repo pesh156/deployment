@@ -20,7 +20,7 @@ function App() {
           <h1>Hello DevOps</h1>
           <h2>Here is Your Sosamala</h2>
           <h1>Vite + React</h1>
-          <h1>Halo sudu mahattaya</h1>
+          <h1>Halo</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
